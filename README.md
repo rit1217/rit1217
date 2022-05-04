@@ -1,7 +1,11 @@
-### Hi there 👋
-I'm undergraduate software engineering student at KMITL.
-Ritと申します。
-  
+### Hi, my name is Phurit 👋
+I'm undergraduate software engineering student at KMITL.__
+りっとと申します。
+ 
+<ul>
+  <li> Learning machine learning </li>
+  <li> Willing to learn new things! </li>
+</ul>
 <!--
 **rit1217/rit1217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
