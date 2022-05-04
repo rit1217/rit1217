@@ -1,6 +1,7 @@
 ### Hi, my name is Phurit 👋
-I'm undergraduate software engineering student at KMITL.<br/>
-りっとと申します。
+りっとと申します。.<br/>
+I'm undergraduate software engineering student at KMITL
+
  
 <ul>
   <li> Learning machine learning </li>
