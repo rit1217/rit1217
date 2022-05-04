@@ -24,6 +24,16 @@
 
 ### ------------------------------------------コーディング:CODING------------------------------------------
 <!--START_SECTION:waka-->
+
+```text
+JavaScript   19 hrs 2 mins   ██████████████████▓░░░░░░   74.55 %
+Python       5 hrs 39 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.16 %
+JSON         31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
+CSS          9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+Bash         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+Solidity     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+```
+
 <!--END_SECTION:waka-->
 <p align= "left">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=rit1217&theme=buefy&show_icons=true&include_all_commits=true" />
