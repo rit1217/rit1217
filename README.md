@@ -12,6 +12,9 @@
 </ul>
 
 <a href="https://www.instagram.com/rit.wrp/">
+  <img align="left" alt="Rit's Spotify" width="22px" src="https://open.spotify.com/user/35ju1yqmghqtucsvrde2zfvrm?si=e5119e6865564e64" />
+</a>
+<a href="https://www.instagram.com/rit.wrp/">
   <img align="left" alt="Rit's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://www.linkedin.com/in/phurit-warapattanapong-022b69222/">
@@ -26,11 +29,11 @@
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=rit1217&theme=buefy&show_icons=true&include_all_commits=true" />
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rit1217&layout=compact" />
 </p>
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<!-- <a href="https://github.com/rit1217/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rit1217&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/rit1217/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rit1217&repo=convoychat" />
 </a>
  -->
  
