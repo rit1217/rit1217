@@ -15,7 +15,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-------<ウイークリー＞------
-My weekly coding time
+
+<ul>
+  <li> ------<ウイークリー＞------ </li>
+  <li>My weekly coding time/li>
+</ul>
+
+
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
