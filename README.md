@@ -1,5 +1,5 @@
 ### Hi, my name is Phurit 👋
-I'm undergraduate software engineering student at KMITL.__
+I'm undergraduate software engineering student at KMITL.<br/>
 りっとと申します。
  
 <ul>
