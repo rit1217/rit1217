@@ -1,5 +1,5 @@
 ### Hi, my name is Phurit 👋
-りっとと申します。.<br/>
+りっとと申します。<br/>
 I'm undergraduate software engineering student at KMITL
 
  
@@ -7,6 +7,11 @@ I'm undergraduate software engineering student at KMITL
   <li> Learning machine learning </li>
   <li> Willing to learn new things! </li>
 </ul>
+
+### ------<ウイークリー＞------
+My weekly coding time
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <!--
 **rit1217/rit1217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,7 +27,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### ------<ウイークリー＞------
-### My weekly coding time
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
