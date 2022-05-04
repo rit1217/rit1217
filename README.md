@@ -46,9 +46,12 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
+### ----------------------------------スタッツ:STATS------------------------------------
   <br/>
-  <a href='https://profile.codersrank.io/user/gautamkrishnar/'>
+  <a href='https://profile.codersrank.io/user/rit1217/'>
   <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=rit1217&padding=30&skills=angular,batchfile,c,C%23,coffeescript,dart,go,html,json,java,javascript,less,mysql,php,pandas,perl,python,reactjs,scss,shell,svelte,swift,typescript,vue'>
   </a>
+  <img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=rit1217&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
+/>
 
