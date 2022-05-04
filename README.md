@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<li> ------<ウイークリー＞------ </li>
-<li>My weekly coding time </li>
+### ------<ウイークリー＞------
+### My weekly coding time
 
 
 
