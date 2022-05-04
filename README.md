@@ -9,7 +9,7 @@
   <li> ⚡ Fun fact: I enjoy music and gaming! </li>
  <li> 💬 Language: Thai(native), English, studying Japanese </li>
 </ul>
-<br/>
+
 ### -------------------------コーディング-------------------------
 
 <!--START_SECTION:waka-->
