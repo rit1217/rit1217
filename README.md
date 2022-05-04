@@ -1,6 +1,6 @@
 ### Hi, my name is Phurit 👋
 りっとと申します。<br/>
-コーディングを頑張ります！ <br/> <br/>
+コーディングを頑張ります！
 
 <ul>
   <li>🔭 I’m currently studying software engineering at KMITL </li>
@@ -10,7 +10,7 @@
  <li> 💬 Language: Thai(native), English, studying Japanese </li>
 </ul>
 <br/>
-### ---------コーディング---------
+-------------------------コーディング-------------------------
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
