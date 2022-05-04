@@ -8,7 +8,7 @@ I'm undergraduate software engineering student at KMITL
   <li> Willing to learn new things! </li>
 </ul>
 
-### ---------コーディング---------
+### ----------------------------コーディング----------------------------
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 <p align= "center">
