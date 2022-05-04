@@ -16,10 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<ul>
-  <li> ------<ウイークリー＞------ </li>
-  <li>My weekly coding time/li>
-</ul>
+<li> ------<ウイークリー＞------ </li>
+<li>My weekly coding time </li>
+
 
 
 
