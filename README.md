@@ -1,6 +1,6 @@
 ### Hi there 👋
-### I'm undergraduate software engineering student at KMITL.
-### Ritと申します。
+I'm undergraduate software engineering student at KMITL.
+Ritと申します。
   
 <!--
 **rit1217/rit1217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
