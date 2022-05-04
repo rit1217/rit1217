@@ -11,8 +11,8 @@
   <li> 📫 How to reach me: <a href="mailto:phuritwarapat@gmail.com?">my email 📬</a></li>
 </ul>
 
-<a href="https://www.instagram.com/rit.wrp/">
-  <img align="left" alt="Rit's Spotify" width="22px" src="https://open.spotify.com/user/35ju1yqmghqtucsvrde2zfvrm?si=e5119e6865564e64" />
+<a href="https://open.spotify.com/user/35ju1yqmghqtucsvrde2zfvrm?si=e5119e6865564e64">
+  <img align="left" alt="Rit's Spotify" width="22px" src="https://www.vectorlogo.zone/logos/spotify/spotify-tile.svg" />
 </a>
 <a href="https://www.instagram.com/rit.wrp/">
   <img align="left" alt="Rit's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
