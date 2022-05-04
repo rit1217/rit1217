@@ -9,7 +9,6 @@ I'm undergraduate software engineering student at KMITL
 </ul>
 
 ### ---------コーディング---------
-My weekly coding time
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 <p align= "center">
