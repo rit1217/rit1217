@@ -48,7 +48,7 @@
 
 ### ----------------------------------スタッツ:STATS------------------------------------
 <details>
-    <summary><b>📈&nbsp;&nbsp;Codersrank&nbsp;/&nbsp;</b></summary>
+    <summary><b>📈&nbsp;&nbsp;Codersrank&nbsp;&nbsp;</b></summary>
 
   <br/>
   <a href='https://profile.codersrank.io/user/rit1217/'>
