@@ -8,13 +8,12 @@ I'm undergraduate software engineering student at KMITL
   <li> Willing to learn new things! </li>
 </ul>
 
-### ----------------------------コーディング----------------------------
+### -----------------------------------コーディング-----------------------------------
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 <p align= "left">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=rit1217&theme=buefy&show_icons=true&include_all_commits=true" />
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rit1217&layout=compact" />
- <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rit1217" />
 </p>
 
 <!--
