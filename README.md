@@ -8,9 +8,9 @@
   <li> 🤔 Willing to learn new things! </li>
   <li> ⚡ Fun fact: I enjoy music and gaming! </li>
  <li> 💬 Language: Thai(native), English, studying Japanese </li>
-  <li> 📫 How to reach me: {[My email](mailto:phuritwarapat@gmail.com)}</li>
+  
 </ul>
-
+📫 How to reach me: [My email](mailto:phuritwarapat@gmail.com)
 <a href="https://www.instagram.com/rit.wrp/">
   <img align="left" alt="Rit's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
