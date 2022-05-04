@@ -13,6 +13,11 @@
 ### ------------------------------------コーディング------------------------------------
 
 <!--START_SECTION:waka-->
+
+
+
+
+
 <!--END_SECTION:waka-->
 <p align= "left">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=rit1217&theme=buefy&show_icons=true&include_all_commits=true" />
