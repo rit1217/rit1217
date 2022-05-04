@@ -10,7 +10,7 @@
  <li> 💬 Language: Thai(native), English, studying Japanese </li>
   
 </ul>
-📫 How to reach me: [email](mailto:phuritwarapat@gmail.com)
+- 📫 How to reach me: [email](mailto:phuritwarapat@gmail.com)
 <a href="https://www.instagram.com/rit.wrp/">
   <img align="left" alt="Rit's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
