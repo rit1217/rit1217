@@ -10,14 +10,17 @@
  <li> 💬 Language: Thai(native), English, studying Japanese </li>
 </ul>
 
+<a href="https://www.instagram.com/rit.wrp/">
+  <img align="left" alt="Rit's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://www.linkedin.com/in/phurit-warapattanapong-022b69222/">
+  <img align="left" alt="Phurit's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+
 ### ------------------------------------コーディング------------------------------------
 
 <!--START_SECTION:waka-->
-
-
-
-
-
 <!--END_SECTION:waka-->
 <p align= "left">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=rit1217&theme=buefy&show_icons=true&include_all_commits=true" />
