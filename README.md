@@ -13,7 +13,7 @@ My weekly coding time
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 <p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/wakatime?username=rit1217" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rit1217&hide=javascript,html" />
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rit1217" />
 </p>
 
