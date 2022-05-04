@@ -12,6 +12,11 @@ I'm undergraduate software engineering student at KMITL
 My weekly coding time
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+<p align= "center">
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=rit1217&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rit1217&theme=react&layout=compact" />
+</p>
+
 <!--
 **rit1217/rit1217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
