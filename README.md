@@ -54,19 +54,3 @@ Git Config   51 mins         █░░░░░░░░░░░░░░░░
 <a href="https://www.java.com/en/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://docs.soliditylang.org/en/v0.8.13/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" alt="solidity" width="40" height="40"/> </a>
 <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a></p>
-
-
-### ---------------------------------------------スタッツ:STATS----------------------------------------------
-<details>
-    <summary><b>📈&nbsp;&nbsp;Codersrank&nbsp;&nbsp;</b></summary>
-
-  <br/>
-  <a href='https://profile.codersrank.io/user/rit1217/'>
-  <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=rit1217&padding=30&skills=angular,batchfile,c,C%23,coffeescript,dart,go,html,json,java,javascript,less,mysql,php,pandas,perl,python,reactjs,scss,shell,svelte,swift,typescript,vue'>
-    <img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=rit1217&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:2px" width="600"
-/>
-  </a>
-  
-</details>
-
