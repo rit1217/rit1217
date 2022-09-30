@@ -26,12 +26,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python       3 hrs 11 mins   ████████████████▒░░░░░░░░   65.29 %
-CSV          1 hr 29 mins    ███████▓░░░░░░░░░░░░░░░░░   30.63 %
-Makefile     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
-Git Config   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
-Text         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
