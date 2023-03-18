@@ -26,7 +26,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Python       1 hr 10 mins    ████████████████░░░░░░░░░   63.98 %
+Java         30 mins         ███████░░░░░░░░░░░░░░░░░░   27.90 %
+Markdown     4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
+Text         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
 ```
 
 <!--END_SECTION:waka-->
